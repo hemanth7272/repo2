@@ -13,7 +13,7 @@ public class Demo extends BaseTest  {
 		Reporter.log("hello");
 		Reporter.log("demo", true);
 		Reporter.log("test", false);
-		Reporter.log("bye");
+		//Reporter.log("bye");
 		
 	}
 }
