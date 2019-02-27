@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[demo]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12206" started-at="2019-02-27T11:05:32Z" finished-at="2019-02-27T11:05:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12206" started-at="2019-02-27T11:05:32Z" finished-at="2019-02-27T11:05:44Z">
+      <class name="script.Demo">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:script.Demo@29ee9faa]" name="openApp" is-config="true" duration-ms="10061" started-at="2019-02-27T16:35:32Z" finished-at="2019-02-27T16:35:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="testDemo()[pri:0, instance:script.Demo@29ee9faa]" name="testDemo" duration-ms="5" started-at="2019-02-27T16:35:42Z" finished-at="2019-02-27T16:35:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[demo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDemo -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:script.Demo@29ee9faa]" name="closeApp" is-config="true" duration-ms="2114" started-at="2019-02-27T16:35:42Z" finished-at="2019-02-27T16:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- script.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
