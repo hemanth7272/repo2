@@ -9,9 +9,9 @@ public interface IAutoConst {
 	String GECKO_VALUE="./Driver/geckodriver.exe";
 	
 	String XL_PATH="./data/input.xlsx";
-	String IMG_PATH="./images";
+	String IMG_PATH="./images/";
 
-	String APP_URL="http://www.google.com";
+	String APP_URL="http://localhost/login.do";
 	
 	long ITO=10;
 	long ETO=8;

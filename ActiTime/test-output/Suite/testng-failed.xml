@@ -5,7 +5,9 @@
     <classes>
       <class name="script.Demo">
         <methods>
-          <include name="testDemo"/>
+          <include name="openApp"/>
+          <include name="testDemoB"/>
+          <include name="closeApp"/>
         </methods>
       </class> <!-- script.Demo -->
     </classes>
